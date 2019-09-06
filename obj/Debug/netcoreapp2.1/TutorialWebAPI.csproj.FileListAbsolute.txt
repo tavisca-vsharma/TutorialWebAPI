@@ -1,0 +1,14 @@
+C:\Users\visharma\source\repos\TutorialWebAPI\TutorialWebAPI\bin\Debug\netcoreapp2.1\TutorialWebAPI.deps.json
+C:\Users\visharma\source\repos\TutorialWebAPI\TutorialWebAPI\bin\Debug\netcoreapp2.1\TutorialWebAPI.runtimeconfig.json
+C:\Users\visharma\source\repos\TutorialWebAPI\TutorialWebAPI\bin\Debug\netcoreapp2.1\TutorialWebAPI.runtimeconfig.dev.json
+C:\Users\visharma\source\repos\TutorialWebAPI\TutorialWebAPI\bin\Debug\netcoreapp2.1\TutorialWebAPI.dll
+C:\Users\visharma\source\repos\TutorialWebAPI\TutorialWebAPI\bin\Debug\netcoreapp2.1\TutorialWebAPI.pdb
+C:\Users\visharma\source\repos\TutorialWebAPI\TutorialWebAPI\obj\Debug\netcoreapp2.1\TutorialWebAPI.csprojAssemblyReference.cache
+C:\Users\visharma\source\repos\TutorialWebAPI\TutorialWebAPI\obj\Debug\netcoreapp2.1\TutorialWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\visharma\source\repos\TutorialWebAPI\TutorialWebAPI\obj\Debug\netcoreapp2.1\TutorialWebAPI.RazorAssemblyInfo.cache
+C:\Users\visharma\source\repos\TutorialWebAPI\TutorialWebAPI\obj\Debug\netcoreapp2.1\TutorialWebAPI.RazorAssemblyInfo.cs
+C:\Users\visharma\source\repos\TutorialWebAPI\TutorialWebAPI\obj\Debug\netcoreapp2.1\TutorialWebAPI.AssemblyInfoInputs.cache
+C:\Users\visharma\source\repos\TutorialWebAPI\TutorialWebAPI\obj\Debug\netcoreapp2.1\TutorialWebAPI.AssemblyInfo.cs
+C:\Users\visharma\source\repos\TutorialWebAPI\TutorialWebAPI\obj\Debug\netcoreapp2.1\TutorialWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\visharma\source\repos\TutorialWebAPI\TutorialWebAPI\obj\Debug\netcoreapp2.1\TutorialWebAPI.dll
+C:\Users\visharma\source\repos\TutorialWebAPI\TutorialWebAPI\obj\Debug\netcoreapp2.1\TutorialWebAPI.pdb

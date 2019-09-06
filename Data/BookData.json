@@ -1,0 +1,25 @@
+[
+  {
+    "Title": "Veronica Decides to Die",
+    "ISBN": "9780913675",
+    "Author": "Paulo Coelho",
+    "Price": "18$"
+  },
+
+  {
+    "Title": "Chemical Plants",
+    "ISBN": "9780913289",
+    "Author": "Heisenberg",
+    "Price": "89$"
+  },
+
+
+  {
+    {
+      "Title": "Da Vinci Code",
+      "ISBN": "9780913398",
+      "Author": "Dan Brown",
+      "Price": "29$"
+    }
+  }
+]
